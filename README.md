@@ -6,9 +6,8 @@
 
 ``` git clone https://github.com/Dudu-1102/Sonic-go-brrr-PoC```
 
-```cd Sonic-go-brrr-CTF-exploit-Code  ```
+```cd Sonic-go-brrr-PoC  ```
 
-``` cd exploit```
 
 ```chmod +x exploit.py ```
 
